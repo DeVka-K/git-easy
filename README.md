@@ -1,1 +1,2 @@
-this is my first git repository.
+this is devikas read me file.
+ 
